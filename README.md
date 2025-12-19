@@ -112,12 +112,12 @@ Built for Indian logistics & transport use-cases
 
 - Clone the repository
 git clone https://github.com/Kush-012/Transportation-and-Logistics
-
- cd Transportation-and-Logistics
-
+- cd Transportation-and-Logistics
+- cd b 
 - Install dependencies
-npm install
-
+- npm install
+- cd f
+- npm install
 - Setup Environment Variables
 
 Create a .env file in the root directory:
